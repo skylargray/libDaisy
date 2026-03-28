@@ -16,7 +16,6 @@ util/usbh_diskio \
 sys/system_stm32h7xx \
 usbd/usbd_cdc_if \
 usbd/usbd_desc \
-usbd/usbd_conf \
 usbh/usbh_conf
 
 CPP_MODULES = \

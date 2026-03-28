@@ -87,7 +87,6 @@ add_library(daisy STATIC
     ${MODULE_DIR}/ui/FullScreenItemMenu.cpp
     ${MODULE_DIR}/ui/UI.cpp
     ${MODULE_DIR}/usbd/usbd_cdc_if.c
-    ${MODULE_DIR}/usbd/usbd_conf.c
     ${MODULE_DIR}/usbd/usbd_desc.c
     ${MODULE_DIR}/usbh/usbh_conf.c
     ${MODULE_DIR}/util/bsp_sd_diskio.c
